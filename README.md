@@ -7,6 +7,6 @@ In order to periodically assess the ethical compliance of our project, we will f
 
 #### People who already joined the board
 
-- Diego Gosmar[https://www.gosmar.eu/]
-- Viviana Patti[https://www.unito.it/persone/vpatti]
+- [Diego Gosmar](https://www.gosmar.eu/)
+- [Viviana Patti](https://www.unito.it/persone/vpatti)
 
