@@ -7,6 +7,11 @@ In order to periodically assess the ethical compliance of our project, we will f
 
 #### People who already joined the board
 
-- [Diego Gosmar](https://www.gosmar.eu/)
-- [Viviana Patti](https://www.unito.it/persone/vpatti)
+- [Fabio Ciravegna](https://www.di.unito.it/~ciravegna/) - Full Professor at the University of Turin
+- [Joke Daems](https://research.flw.ugent.be/en/joke.daems) - Associate Professor at Ghent University
+- Matteo Forte - CEO of [mosai.co](https://mosai.co/)
+- [Diego Gosmar](https://www.gosmar.eu/) - Ambassador of the Open Voice Network Linux Foundation
+- [Els Lefever](https://research.flw.ugent.be/en/els.lefever) - Associate Professor at Ghent University
+- [Deborah Nozza]https://cs.unibocconi.eu/people/debora-nozza) - Assistant Professor at Bocconi University
+- [Viviana Patti](https://www.unito.it/persone/vpatti) - Associate Professor at the University of Turin
 
