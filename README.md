@@ -2,6 +2,9 @@
 
 Welcome to the repository of CLERK, a LLM designed for conversating with different types of Italian speakers (eg: migrants, dialect speakers, etc.). Such a technology is conceived as a tool for the promotion of more inclusive society and to reduce the gap between citizens and the Public Administration. 
 
+### AI-Boost Challenge
+CLERK has been candidated to the AI-Boost Challenge and in particolar for the Super computer ***LEONARDO***
+
 ### Ethical Board
 In order to periodically assess the ethical compliance of our project, we will form an ethical board of experts in AI and society. The ethical board will evaluate all milestones related to the LLM development.
 
